@@ -1,0 +1,11 @@
+web/node_modules
+web/dist
+node_modules
+.git
+__pycache__
+*.pyc
+.venv
+venv
+notebooks
+data/backups
+data/raw
