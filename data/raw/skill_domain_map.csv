@@ -1,0 +1,49 @@
+skill_name,domain,domain_weight
+Algorithms,Programming,0.7
+Algorithms,Mathematics,0.3
+Backend Development,Software Engineering,0.5
+Backend Development,Programming,0.5
+Business Analytics,Data Science,0.6
+Business Analytics,Software Engineering,0.4
+C,Programming,0.6
+C,Operating Systems / Systems,0.4
+Cloud Computing,Cloud / Distributed Systems,1.0
+Computer Vision,AI / Machine Learning,1.0
+Cryptography,Cybersecurity,1.0
+Cyber Security,Cybersecurity,1.0
+DBMS,Database Systems,1.0
+Data Analytics,Data Science,1.0
+Data Engineering,Data Science,0.5
+Data Engineering,Database Systems,0.3
+Data Engineering,Cloud / Distributed Systems,0.2
+Data Structures,Programming,1.0
+Deep Learning,AI / Machine Learning,1.0
+DevOps,Cloud / Distributed Systems,0.7
+DevOps,Software Engineering,0.3
+Distributed Systems,Cloud / Distributed Systems,1.0
+Embedded Systems,Operating Systems / Systems,1.0
+Ethical Hacking,Cybersecurity,1.0
+Frontend Development,Software Engineering,0.5
+Frontend Development,Programming,0.5
+Hardware Design,Operating Systems / Systems,1.0
+IoT,Computer Networks,0.6
+IoT,Operating Systems / Systems,0.4
+Java,Programming,1.0
+JavaScript,Programming,1.0
+Machine Learning,AI / Machine Learning,1.0
+NLP,AI / Machine Learning,1.0
+Networking,Computer Networks,0.7
+Networking,Cybersecurity,0.3
+Operating Systems,Operating Systems / Systems,1.0
+Python,Programming,0.6
+Python,AI / Machine Learning,0.4
+SQL,Database Systems,1.0
+Software Engineering,Software Engineering,1.0
+Software Testing,Software Engineering,0.7
+Software Testing,Cybersecurity,0.3
+Statistics,Statistics,0.5
+Statistics,Mathematics,0.2
+Statistics,Data Science,0.2
+Statistics,AI / Machine Learning,0.1
+Web Development,Software Engineering,0.6
+Web Development,Programming,0.4

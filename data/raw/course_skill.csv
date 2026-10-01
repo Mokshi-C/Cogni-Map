@@ -1,0 +1,110 @@
+course_id,skill_name,skill_weight
+C0001,C,0.82
+C0001,Data Structures,0.51
+C0002,Algorithms,0.64
+C0003,Statistics,0.61
+C0004,Hardware Design,0.87
+C0005,Data Structures,0.84
+C0005,Algorithms,0.95
+C0005,C,0.54
+C0006,Statistics,0.71
+C0007,Java,0.51
+C0007,Software Engineering,0.61
+C0008,DBMS,0.75
+C0008,SQL,0.51
+C0009,Web Development,0.6
+C0009,JavaScript,0.82
+C0009,Frontend Development,0.77
+C0010,Algorithms,0.61
+C0010,Data Structures,0.79
+C0011,Operating Systems,0.9
+C0011,C,0.5
+C0012,Networking,0.9
+C0013,Software Engineering,0.85
+C0013,Software Testing,0.67
+C0014,Python,0.58
+C0015,Algorithms,0.98
+C0015,Data Structures,0.67
+C0016,Software Engineering,0.55
+C0016,C,0.55
+C0017,Distributed Systems,0.92
+C0017,Networking,0.8
+C0018,Software Engineering,0.9
+C0019,Algorithms,0.86
+C0019,Data Structures,0.77
+C0020,Cloud Computing,0.99
+C0020,DevOps,0.69
+C0021,Software Engineering,0.78
+C0021,Backend Development,0.91
+C0022,Machine Learning,0.81
+C0022,Python,0.93
+C0022,Statistics,0.79
+C0023,Deep Learning,0.85
+C0023,Machine Learning,0.52
+C0023,Python,0.61
+C0024,NLP,0.64
+C0024,Deep Learning,0.54
+C0025,Computer Vision,0.62
+C0025,Deep Learning,0.55
+C0026,Machine Learning,0.64
+C0026,Deep Learning,0.82
+C0027,Machine Learning,0.68
+C0028,Data Engineering,0.69
+C0028,Cloud Computing,0.6
+C0029,Machine Learning,0.63
+C0029,Embedded Systems,0.97
+C0030,Statistics,0.82
+C0030,Data Analytics,0.8
+C0031,Data Engineering,0.59
+C0031,SQL,0.86
+C0031,Python,0.58
+C0032,Data Analytics,0.69
+C0033,Statistics,0.99
+C0033,Data Analytics,0.82
+C0034,Data Analytics,0.78
+C0034,Machine Learning,0.84
+C0035,Cloud Computing,0.92
+C0035,DevOps,0.89
+C0036,DBMS,0.61
+C0036,SQL,0.52
+C0037,Backend Development,0.66
+C0037,Web Development,0.63
+C0038,DevOps,0.61
+C0038,Cloud Computing,0.97
+C0039,Networking,0.94
+C0040,Java,0.66
+C0040,Frontend Development,0.83
+C0041,Software Engineering,0.7
+C0042,Cryptography,0.96
+C0043,Cyber Security,0.73
+C0043,Networking,0.63
+C0044,Ethical Hacking,0.62
+C0044,Cyber Security,0.78
+C0045,Cyber Security,0.63
+C0045,Networking,0.79
+C0046,Cyber Security,0.95
+C0046,Software Testing,0.7
+C0047,Cyber Security,0.61
+C0048,Cyber Security,1.0
+C0048,Ethical Hacking,0.75
+C0049,Business Analytics,0.55
+C0049,Data Analytics,0.52
+C0050,Business Analytics,0.55
+C0050,SQL,0.81
+C0051,Business Analytics,0.9
+C0052,Software Engineering,0.71
+C0052,Business Analytics,0.53
+C0053,Business Analytics,0.69
+C0053,Software Engineering,1.0
+C0054,Embedded Systems,0.76
+C0054,C,0.99
+C0055,Embedded Systems,0.93
+C0055,Hardware Design,0.51
+C0056,IoT,0.86
+C0056,Networking,0.84
+C0057,IoT,0.77
+C0057,Networking,0.63
+C0058,IoT,0.82
+C0058,Cloud Computing,0.56
+C0059,IoT,0.72
+C0059,Embedded Systems,0.73

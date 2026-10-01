@@ -1,0 +1,60 @@
+course_id,course_name,credits,semester,prerequisite_course_id,course_category,difficulty
+C0001,Programming Fundamentals (C),4,1,,Foundational,2
+C0002,Discrete Mathematics,3,1,,Foundational,3
+C0003,Linear Algebra & Calculus,3,1,,Foundational,2
+C0004,Digital Logic Design,3,2,,Foundational,3
+C0005,Data Structures,4,2,C0001,Foundational,3
+C0006,Probability & Statistics,3,2,C0003,Foundational,3
+C0007,Object Oriented Programming (Java),4,3,C0001,Foundational,3
+C0008,Database Management Systems,4,3,C0005,Foundational,3
+C0009,Web Technologies,3,3,C0001,Foundational,2
+C0010,Design & Analysis of Algorithms,4,4,C0005,Foundational,4
+C0011,Operating Systems,4,4,C0005,Foundational,4
+C0012,Computer Networks,4,4,C0005,Foundational,3
+C0013,Software Engineering,3,4,C0007,Foundational,2
+C0014,Python for Applications,3,2,C0001,Foundational,2
+C0015,Advanced Algorithms & Complexity,4,5,C0010,Branch-Core,5
+C0016,Compiler Design,3,6,C0015,Branch-Core,5
+C0017,Distributed Systems,3,6,C0011,Branch-Core,4
+C0018,Software Architecture & Design Patterns,3,7,C0013,Branch-Core,4
+C0019,Competitive Programming,2,5,C0010,Elective,4
+C0020,Cloud Native Systems,3,7,C0017,Elective,4
+C0021,Capstone: Software Systems Project,3,8,C0018,Branch-Core,4
+C0022,Introduction to Machine Learning,4,5,C0006,Branch-Core,4
+C0023,Neural Networks & Deep Learning,4,6,C0022,Branch-Core,5
+C0024,Natural Language Processing,3,7,C0023,Branch-Core,5
+C0025,Computer Vision,3,7,C0023,Branch-Core,5
+C0026,Reinforcement Learning,3,8,C0023,Elective,5
+C0027,AI Ethics & Explainability,2,8,C0022,Branch-Core,2
+C0028,Big Data Systems,3,6,C0008,Elective,4
+C0029,Robotics Fundamentals,3,8,C0023,Elective,4
+C0030,Statistical Data Analysis,4,5,C0006,Branch-Core,3
+C0031,Data Engineering & ETL,3,6,C0008,Branch-Core,4
+C0032,Data Visualization,2,6,C0030,Branch-Core,2
+C0033,Time Series Analysis,3,7,C0030,Elective,4
+C0034,Data Science Capstone,3,8,C0031,Branch-Core,4
+C0035,Cloud Computing Fundamentals,3,5,C0012,Branch-Core,3
+C0036,Advanced Database Systems,3,5,C0008,Branch-Core,3
+C0037,Enterprise Web Applications,4,6,C0009,Branch-Core,4
+C0038,IT Infrastructure & DevOps,3,6,C0035,Branch-Core,4
+C0039,Network Administration,3,7,C0012,Branch-Core,3
+C0040,Mobile Application Development,3,7,C0037,Elective,3
+C0041,IT Project Management,2,8,C0013,Elective,2
+C0042,Cryptography Fundamentals,3,5,C0002,Branch-Core,4
+C0043,Network Security,4,5,C0012,Branch-Core,4
+C0044,Ethical Hacking & Penetration Testing,3,6,C0043,Branch-Core,5
+C0045,Security Operations & SOC,3,6,C0043,Branch-Core,4
+C0046,Malware Analysis,3,7,C0044,Elective,5
+C0047,Cyber Law & Governance,2,7,C0043,Elective,2
+C0048,Security Capstone,3,8,C0044,Branch-Core,4
+C0049,Business Analytics,3,5,C0006,Branch-Core,3
+C0050,Enterprise Resource Planning Systems,3,5,C0008,Branch-Core,3
+C0051,Financial & Managerial Accounting,3,6,,Branch-Core,2
+C0052,Product Management,2,7,C0013,Branch-Core,2
+C0053,Business Systems Capstone,3,8,C0050,Branch-Core,3
+C0054,Embedded Systems Programming,4,5,C0004,Branch-Core,4
+C0055,Microcontrollers & Sensors,3,5,C0004,Branch-Core,4
+C0056,IoT Platforms & Protocols,3,6,C0054,Branch-Core,4
+C0057,Wireless Sensor Networks,3,6,C0012,Branch-Core,4
+C0058,Edge Computing,3,7,C0056,Elective,4
+C0059,IoT Capstone,3,8,C0056,Branch-Core,4

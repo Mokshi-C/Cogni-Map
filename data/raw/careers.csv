@@ -1,0 +1,30 @@
+career_id,career_name,required_skills,preferred_course_ids,related_specializations,demand_score
+CR001,Software Engineer,Java|Data Structures|Algorithms|Software Engineering,C0001|C0002|C0005|C0007|C0010|C0013|C0015|C0016,CSE|IT,9
+CR002,Backend Developer,Backend Development|DBMS|SQL|Java,C0007|C0008|C0021|C0031|C0036|C0037|C0040|C0050,CSE|IT,8
+CR003,Systems Engineer,Operating Systems|Networking|C,C0001|C0005|C0011|C0012|C0016|C0017|C0039|C0043,CSE|IT,7
+CR004,DevOps Engineer,DevOps|Cloud Computing|Networking,C0012|C0017|C0020|C0028|C0035|C0038|C0039|C0043,IT|CSE,9
+CR005,Software Architect,Software Engineering|Distributed Systems|Algorithms,C0002|C0005|C0007|C0010|C0013|C0015|C0016|C0017,CSE,8
+CR006,Machine Learning Engineer,Machine Learning|Python|Deep Learning,C0014|C0022|C0023|C0024|C0025|C0026|C0027|C0029,AIML|AIDS,10
+CR007,AI Research Engineer,Deep Learning|Machine Learning|Statistics,C0003|C0006|C0022|C0023|C0024|C0025|C0026|C0027,AIML,9
+CR008,Computer Vision Engineer,Computer Vision|Deep Learning|Python,C0014|C0022|C0023|C0024|C0025|C0026|C0031,AIML,8
+CR009,NLP Engineer,NLP|Deep Learning|Python,C0014|C0022|C0023|C0024|C0025|C0026|C0031,AIML,8
+CR010,Robotics Engineer,Machine Learning|Embedded Systems,C0022|C0023|C0026|C0027|C0029|C0034|C0054|C0055,AIML|IOT,7
+CR011,Data Scientist,Machine Learning|Statistics|Data Analytics|Python,C0003|C0006|C0014|C0022|C0023|C0026|C0027|C0029,AIDS|AIML,10
+CR012,Data Analyst,Data Analytics|SQL|Statistics,C0003|C0006|C0008|C0022|C0030|C0031|C0032|C0033,AIDS|CSBS,8
+CR013,Business Intelligence Analyst,Business Analytics|Data Analytics|SQL,C0008|C0030|C0031|C0032|C0033|C0034|C0036|C0049,AIDS|CSBS,7
+CR014,Data Engineer,Data Engineering|SQL|Cloud Computing|Python,C0008|C0014|C0020|C0022|C0023|C0028|C0031|C0035,AIDS,9
+CR015,IT Support Engineer,Networking|Operating Systems,C0011|C0012|C0017|C0039|C0043|C0045|C0056|C0057,IT,6
+CR016,Network Administrator,Networking|Operating Systems,C0011|C0012|C0017|C0039|C0043|C0045|C0056|C0057,IT|CYSEC,6
+CR017,Systems Administrator,Operating Systems|Cloud Computing|Networking,C0011|C0012|C0017|C0020|C0028|C0035|C0038|C0039,IT,6
+CR018,Database Administrator,DBMS|SQL,C0008|C0031|C0036|C0050,IT|CSE,6
+CR019,Cloud Engineer,Cloud Computing|DevOps|Networking,C0012|C0017|C0020|C0028|C0035|C0038|C0039|C0043,IT|CSE,9
+CR020,Cybersecurity Analyst,Cyber Security|Networking,C0012|C0017|C0039|C0043|C0044|C0045|C0046|C0047,CYSEC,9
+CR021,Penetration Tester,Ethical Hacking|Cyber Security,C0043|C0044|C0045|C0046|C0047|C0048,CYSEC,9
+CR022,Security Architect,Cyber Security|Cryptography|Networking,C0012|C0017|C0039|C0042|C0043|C0044|C0045|C0046,CYSEC,8
+CR023,SOC Analyst,Cyber Security|Networking,C0012|C0017|C0039|C0043|C0044|C0045|C0046|C0047,CYSEC,7
+CR024,Product Manager (Tech),Business Analytics|Software Engineering,C0007|C0013|C0016|C0018|C0021|C0041|C0049|C0050,CSBS,8
+CR025,Business Systems Analyst,Business Analytics|SQL|Data Analytics,C0008|C0030|C0031|C0032|C0033|C0034|C0036|C0049,CSBS,7
+CR026,IT Consultant,Business Analytics|Software Engineering,C0007|C0013|C0016|C0018|C0021|C0041|C0049|C0050,CSBS|IT,6
+CR027,IoT Solutions Engineer,IoT|Embedded Systems|Networking,C0012|C0017|C0029|C0039|C0043|C0045|C0054|C0055,IOT,7
+CR028,Embedded Systems Engineer,Embedded Systems|Hardware Design|C,C0001|C0004|C0005|C0011|C0016|C0029|C0054|C0055,IOT,7
+CR029,Firmware Engineer,Embedded Systems|C|Hardware Design,C0001|C0004|C0005|C0011|C0016|C0029|C0054|C0055,IOT,7
